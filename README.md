@@ -1,5 +1,6 @@
 # Anomaly-Detection
 
+To teach the machine you have to run the machine_learn.py
 
 run the docker:
  docker build -t streamlitapp:latest .
