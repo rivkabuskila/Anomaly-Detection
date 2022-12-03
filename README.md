@@ -2,8 +2,6 @@
 
 We have built a model that detects anomalous attack/anomaly detection
 
-To teach the machine you have to run the machine_learn.py
-
 # run the docker:
 
 docker build -t streamlitapp:latest.
